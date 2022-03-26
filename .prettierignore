@@ -1,0 +1,2 @@
+# Ignore helpDoc markdown files
+helpDocs/*.md
